@@ -1,0 +1,49 @@
+/*
+  white: #FFFFFF
+  Accent 1 #4A5A73
+  Accent 2 #73634A
+*/
+h1, h2, h3{
+  color:#4A5A73;
+}
+h1{
+  text-align: center;
+}
+th, td{
+  border-style: solid;
+  border-color: #73634A;
+  border-width: 3px;
+  padding: 5px;
+}
+table{
+  border-collapse: collapse;
+}
+a{
+  color:#4A5A73;
+  font-weight: bold;
+  text-decoration: none;
+}
+a:hover{
+  color:#73634A;
+}
+p.boxed{
+  background-color: #4A5A73;
+  color: #FFFFFF;
+  width: 600px;
+  padding: 10px;
+  border-style: dashed;
+  border-width: 6px;
+  border-color: #73634A;
+  margin: 16px;
+}
+div{
+  background-color: #4A5A73;
+  width: 646px;
+  padding: 12px;
+  border: 6px outset #73634A;
+  margin: 16px;
+}
+body{
+  padding: 20px;
+  font-size: 1.2em;
+}
