@@ -1,0 +1,39 @@
+/*
+background #F59C4E
+text #F59C4E
+extra
+*/
+
+body{
+  background-color: #6896A0;
+  padding: 12px;
+}
+h1, h2{
+  color: #F59C4E;
+  text-align: center;
+}
+h3{
+  color: #F59C4E;
+}
+table{
+  border-collapse: collapse;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+th, td{
+  border: 2px solid #F59C4E;
+}
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+a{
+  color: #F59C4E;
+  text-decoration: none;
+  font-weight: bold;
+}
+a:hover{
+  color: #756A60;
+}
